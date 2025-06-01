@@ -1,5 +1,5 @@
 .env
 venv
-/workspaces/llm-zoomcamp-dm/.ipynb_checkpoints
-/workspaces/llm-zoomcamp-dm/__pycache__
-/workspaces/llm-zoomcamp-dm/Intro to RAG/__pycache__
+.ipynb_checkpoints
+__pycache__
+Intro to RAG/__pycache__
